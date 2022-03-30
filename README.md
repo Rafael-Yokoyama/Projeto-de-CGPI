@@ -60,7 +60,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 ## 📝 Licença
 
-Este projeto está sob licença. Consulte o arquivo [LICENSE](LICENSE.md) para obter mais detalhes.
+Este projeto está sob licença. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
 
 &#xa0;
 
