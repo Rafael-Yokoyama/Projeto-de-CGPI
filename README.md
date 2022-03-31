@@ -55,6 +55,14 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
+       <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/81210377?v=4" width="140px;" alt="Foto "/><br>
+        <sub>
+          <b>João Xavier</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
 
