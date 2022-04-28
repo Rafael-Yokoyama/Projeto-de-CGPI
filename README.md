@@ -59,8 +59,9 @@ $ git clone https://github.com/Rafael-Yokoyama/Projeto-de-CGPI.git
 ###### processing
 - acesse e baixe o  <a href="https://processing.org/">Processing  </a> 
 
-- baixe o zip
-  <img src=".github\zip.png" width="600px;" alt="Foto "/><br>
+- baixe o zip <br>
+ 
+  <img src=".github\zip.png" width="600px;" alt="Foto "/> <br>
  
 ## 🖥️ Metodologias 
 <p> Utilizando o conhecimento adquirido ao longo do curso, conseguimos aplicar alguns filtros nas imagens escolhidas para realizar a segmentação, filtros como: </p>
