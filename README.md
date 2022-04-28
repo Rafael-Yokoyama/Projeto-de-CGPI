@@ -83,6 +83,7 @@ $ git clone https://github.com/Rafael-Yokoyama/Projeto-de-CGPI.git
         <sub>
           <p> <b>Processo de segmentação da primeira imagem</b>(A) Imagem Original (B) Ground Truth obtido do banco de imagem (C) Ground Truth gerado e (D) Imagem Segmentada</p>
         </sub>
+            <img src="./result_works/dados01.png" width="600px;" alt="Foto "/>
       </p>
     </td>
   </tr>
@@ -97,6 +98,7 @@ $ git clone https://github.com/Rafael-Yokoyama/Projeto-de-CGPI.git
         <sub>
           <p> <b>Processo de segmentação da primeira imagem</b>(A) Imagem Original (B) Ground Truth obtido do banco de imagem (C) Ground Truth gerado e (D) Imagem Segmentada</p>
         </sub>
+            <img src="./result_works/dados02.png" width="600px;" alt="Foto "/>
       </p>
     </td>
   </tr>
@@ -111,6 +113,7 @@ $ git clone https://github.com/Rafael-Yokoyama/Projeto-de-CGPI.git
         <sub>
           <p> <b>Processo de segmentação da primeira imagem</b>(A) Imagem Original (B) Ground Truth obtido do banco de imagem (C) Ground Truth gerado e (D) Imagem Segmentada</p>
         </sub>
+            <img src="./result_works/dados03.png" width="600px;" alt="Foto "/>
       </p>
     </td>
   </tr>
@@ -125,6 +128,7 @@ $ git clone https://github.com/Rafael-Yokoyama/Projeto-de-CGPI.git
         <sub>
           <p> <b>Processo de segmentação da primeira imagem</b>(A) Imagem Original (B) Ground Truth obtido do banco de imagem (C) Ground Truth gerado e (D) Imagem Segmentada</p>
         </sub>
+            <img src="./result_works/dados04.png" width="600px;" alt="Foto "/>
       </p>
     </td>
   </tr>
@@ -139,6 +143,7 @@ $ git clone https://github.com/Rafael-Yokoyama/Projeto-de-CGPI.git
         <sub>
           <p> <b>Processo de segmentação da primeira imagem</b>(A) Imagem Original (B) Ground Truth obtido do banco de imagem (C) Ground Truth gerado e (D) Imagem Segmentada</p>
         </sub>
+         <img src="./result_works/dados05.png" width="600px;" alt="Foto "/>
       </p>
     </td>
   </tr>
