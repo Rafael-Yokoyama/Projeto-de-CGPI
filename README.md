@@ -1,5 +1,28 @@
-# Computação Gráfica e Processamento de Imagens 👀
 
+
+
+<p align="center">
+   <img src="https://media0.giphy.com/media/ToMjGpIzADgL6VJ32mc/giphy.gif?cid=ecf05e47g1d5dpwzqwjaicznop8z9u0zrn4tvjs6ronh2frd&rid=giphy.gif&ct=g" alt="Podcastr" width="150"/>
+</p>
+
+<h6 align="center">Computação Gráfica e Processamento de Imagens 👀</h1>
+
+<p align="center">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Rafael-Yokoyama/Projeto-de-CGPI?color=56BEB8">
+
+
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Rafael-Yokoyama/Projeto-de-CGPI?color=56BEB8">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Rafael-Yokoyama/Projeto-de-CGPI?color=56BEB8">
+
+  <img alt="License" src="https://img.shields.io/github/license/Rafael-Yokoyama/Projeto-de-CGPI?color=56BEB8">
+
+   <img alt="Github issues" src="https://img.shields.io/github/issues/Rafael-Yokoyama/Projeto-de-CGPI?color=56BEB8" /> 
+
+   <img alt="Github forks" src="https://img.shields.io/github/forks/Rafael-Yokoyama/Projeto-de-CGPI?color=56BEB8" /> 
+
+   <img alt="Github stars" src="https://img.shields.io/github/stars/Rafael-Yokoyama/Projeto-de-CGPI?color=56BEB8" /> 
+</p>
 
 
 > Trabalho de Segmentação de Imagens - 🤔
@@ -26,7 +49,8 @@ Antes de iniciar :checkered_flag:, você precisa ter o [Git](https://git-scm.com
 
 ##### existem duas maneiras uma pelo vs code e outra pelo processing
 
-######visual studio code (Clone o projeto)
+###### visual studio code (Clone o projeto)
+
 $ git clone https://github.com/Rafael-Yokoyama/Projeto-de-CGPI.git
 
  acesse o <a href=" https://www.youtube.com/watch?v=LKuu-WcOZYA ">vídeo  </a>  para configurar o processing no vs code
