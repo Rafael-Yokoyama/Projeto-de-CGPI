@@ -52,5 +52,5 @@ void draw() {
       
     }
   }image (aux,0,0);
-   save ("flamingo.png");
+   save ("223.jpg");
 }
