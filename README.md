@@ -119,8 +119,8 @@ $ git clone https://github.com/Rafael-Yokoyama/Projeto-de-CGPI.git
   </tr>
 </table>
 
-- banco de images 
-http://vision.ime.usp.br/~lucyacm/thesis/coift.html
+- banco de images <br>
+http://vision.ime.usp.br/~lucyacm/thesis/coift.html  <br>
 http://mftp.mmcheng.net/Data/MSRA10K_Imgs_GT.zip
  
 ## 🤖 Conclusão 
